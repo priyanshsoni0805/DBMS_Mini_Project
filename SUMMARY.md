@@ -10,6 +10,5 @@ See `README.md` for setup and `PES1UG24CS344_PES1UG24CS346_DBMS_Mini_Project_Rep
 - `database/06_vector_database.py` vector DB (44-dim embeddings), CRUD + cosine search - runs as-is
 - `database/07_rbac_security.sql` MySQL roles, per-role accounts, row-scoped procedures
 - `nextjs-app/` Next.js app: login, 3 role dashboards, REST API (MySQL + MongoDB), JWT auth
-- `docs/er_diagram.png` ER diagram (regenerate with `python3 docs/make_er.py`)
-
-Not yet done by the author: run each component and capture screenshots; push to GitHub.
+- `screenshots/` Live terminal execution verification screenshots (Figs 7.5 - 7.13)
+- `PES1UG24CS344_PES1UG24CS346_DBMS_Mini_Project_Report.docx` Fresh updated report with all real screenshots and team attribution.
